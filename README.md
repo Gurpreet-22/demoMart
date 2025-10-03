@@ -10,7 +10,6 @@ It provides a smooth shopping experience with features like product listing, cat
 - 📦 **Product Management** – View products with images, price, and description.  
 - 🏷️ **Categories** – Filter products based on categories.  
 - 🛍️ **Cart System** – Add, update, and remove products from the cart.  
-- 👤 **User Authentication** (planned/ongoing) – Login/Signup functionality.  
 - 🔄 **Responsive UI** – Mobile-friendly design using React.  
 - ⚡ **REST API** – Backend powered by Express + MySQL.  
 
