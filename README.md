@@ -32,7 +32,7 @@ It provides a smooth shopping experience with features like product listing, cat
 
 
 ## 📂 Project Structure
-
+![image alt](https://github.com/Gurpreet-22/demoMart/blob/cd8bc82a47b4da888878446252e7b9a91ce2e049/Screenshot%202025-10-03%20160028.png)
 
 
 
