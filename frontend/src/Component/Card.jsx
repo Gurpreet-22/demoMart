@@ -105,7 +105,7 @@ const Card = () => {
           ))
         ) : (
           <p className="text-gray-500 text-center w-full mt-10">
-            No products available.
+            Loading.
           </p>
         )}
       </div>
