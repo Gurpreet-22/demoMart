@@ -19,14 +19,16 @@ It provides a smooth shopping experience with features like product listing, cat
 ## 🏗️ Tech Stack
 
 **Frontend**  
-- React.js (with React Router)  
-- Axios for API calls  
-- Tailwind CSS / Custom CSS  
+React.js  
+(with React Router)  
+Axios for API calls  
+Tailwind CSS / Custom CSS  
 
 **Backend**  
-- Node.js  
-- Express.js  
-- MySQL (Database)  
+Node.js  
+Express.js  
+MySQL (Database)  
+
 
 ---
 
@@ -40,8 +42,9 @@ It provides a smooth shopping experience with features like product listing, cat
 
 
 
-2️⃣ Backend Setup
+## 2️⃣ Backend Setup
 
+```bash
 cd backend
 npm install
 
@@ -58,6 +61,7 @@ DB_NAME=demomart
 cd frontend
 npm install
 npm start
+
 
 📌 API Endpoints (Backend)
 Method	Endpoint	Description
